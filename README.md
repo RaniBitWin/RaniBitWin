@@ -1,4 +1,4 @@
-### Hi there, I'm Raniele Souza 👋
+### Hi there, I'm Raniele Ribeiro 👋
 
 
 - 🔭 I’m currently working on ConnectLight
