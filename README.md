@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on [ConnectLight](http://www.connectlight.com.br/)
-- 🌱 I’m currently learning JavaScript by [Rocketseat](https://www.rocketseat.com.br/) and d3.js by [Grasshopper](https://learn.grasshopper.app/)
+- 🌱 I’m currently learning by [Rocketseat](https://www.rocketseat.com.br/) and [Alura](https://cursos.alura.com.br/)
 
 ![link](https://github-readme-stats.vercel.app/api?username=RaniBitWin&theme=dark&show_=true)
